@@ -35,7 +35,7 @@ Some of my other interests outside of school include traveling and golf.
 ![Placeholder image](project5_tensilestrength.png)  
 *In this project I created a way to analyze tensile strength between different W-Shape steel beams. This can help speed up the design process for choosing the correct steel members when doing a design project.*
 
-[View the code](https://github.com/yourusername/project1)
+[View the code]([https://github.com/yourusername/project1](https://github.com/AlexKucera99/alexkucera99.github.io/blob/2-project-5-automation-of-steel-beam-calculations/CIVE202_Spring2025_Project5_PythonCode.ipynb))
 
 ---
 
