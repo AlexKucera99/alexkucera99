@@ -32,7 +32,7 @@ Some of my other interests outside of school include traveling and golf.
 ---
 
 ### Project 5: Automation of Steel Beam Calculations
-![Placeholder image](images/project5_tensilestrength.png)  
+![Placeholder image](project5_tensilestrength.png)  
 *In this project I created a way to analyze tensile strength between different W-Shape steel beams. This can help speed up the design process for choosing the correct steel members when doing a design project.*
 
 [View the code](https://github.com/yourusername/project1)
@@ -47,9 +47,3 @@ Some of my other interests outside of school include traveling and golf.
 
 ---
 
-## Navigation
-
-- [Home](index.md)  
-- [About Me](about.md)  
-- [Projects](projects.md)  
-- [Contact](contact.md)
